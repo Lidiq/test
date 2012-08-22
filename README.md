@@ -1,3 +1,5 @@
-function test () {
-    echo "Testing";
-}
+## Примери
+
+    function test () {
+        echo "Testing!";
+    }
